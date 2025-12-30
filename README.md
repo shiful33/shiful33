@@ -1,5 +1,5 @@
-### Hi there 👋, I am Shiful Islam
-#### I am passionate Frontend Developer
+I am Shiful Islam
+I am a passionate Frontend Developer
 ![I am passionate Frontend Developer](https://media.licdn.com/dms/image/v2/D4D16AQGSju3NJDEiSw/profile-displaybackgroundimage-shrink_350_1400/B4DZqap14.IMAY-/0/1763531255277?e=1768435200&v=beta&t=JAQya_eP46gkWvCLWvoNE8JLXq66Xeurd7n7chtjqJs)
 
 Hello! I’m Shiful Islam, a professional Frontend Web Developer with 2+ years of hands-on experience in building high-quality, modern, and scalable web applications. If you are looking for a developer who can transform your vision into a fast, secure, and intuitive digital product, you are in the right place.
