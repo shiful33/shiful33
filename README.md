@@ -15,7 +15,7 @@ well known: HTML / CSS/ Tailwind / JavaScript / ES6 / React.Js / Node.Js / Mongo
 
 - 🔭 I’m currently working on a local Engineers-i IT & Consultant as a jr. Instractor.
 - 🌱 I’m currently learning Next.Js 
-- 👯 I’m looking to collaborate on GitHub, LinkedIn & Fiverr.
+- 👯 I’m looking to collaborate on GitHub, LinkedIn, Fiverr & WhatsApp.
 - 💬 Ask me about Web Developer 
 - 📫 How to reach me: GitHub & LinkedIn
 
