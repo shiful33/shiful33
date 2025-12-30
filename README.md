@@ -29,8 +29,12 @@ well known: HTML / CSS/ Tailwind / JavaScript / ES6 / React.Js / Node.Js / Mongo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/shiful33&show_icons=true)  
 
 ## 📧 Connect with Me
-- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- **Email:** [yourname@email.com](mailto:yourname@email.com)
-- **Twitter:** [twitter.com/yourname](https://twitter.com/yourname)
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_USERNAME" height="30" width="40" /></a>
+<a href="https://twitter.com/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_USERNAME" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/YOUR_USERNAME" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-2.svg" alt="YOUR_USERNAME" height="30" width="40" /></a>
+<a href="mailto:yourname@email.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="yourname@email.com" height="30" width="40" /></a>
+</p>
 
 
