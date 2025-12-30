@@ -23,10 +23,6 @@ well known: HTML / CSS/ Tailwind / JavaScript / ES6 / React.Js / Node.Js / Mongo
   <img src="https://komarev.com/ghpvc/?username=shiful-islam-webdeveloper&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![Welcome Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=50)
-
-
-
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 ## 📩 Connect with Me
