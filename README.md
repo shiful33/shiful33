@@ -26,17 +26,17 @@ well known: HTML / CSS/ Tailwind / JavaScript / ES6 / React.Js / Node.Js / Mongo
 ## 📧 Connect with Me
 
 <p align="left">
-  <a href="https://www.facebook.com/shifulislamwebdeveloper" target="blank">
+  <a href="https://www.facebook.com/shifulislamwebdeveloper" target="blank" style="margin-right: 15px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/shiful-islam-webdeveloper" target="blank">
+  <a href="https://www.linkedin.com/in/shiful-islam-webdeveloper" target="blank" style="margin-right: 15px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.fiverr.com/ahmedtpro" target="blank">
+  <a href="https://www.fiverr.com/ahmedtpro" target="blank" style="margin-right: 15px;">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-2.svg" alt="Fiverr" height="30" width="40" />
   </a>
-  <a href="mailto:shwapon.joti@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Gmail" height="30" width="40" />
+  <a href="mailto:shwapon.joti@gmail.com" target="blank" style="margin-right: 15px;">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
   <a href="https://wa.me/8801711037548" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
