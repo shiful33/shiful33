@@ -4,7 +4,7 @@ Hello! I’m Shiful Islam, a professional Frontend Web Developer with 2+ years o
 
 I don't just write code; I craft exceptional user experiences (UX) by meticulously implementing pixel-perfect UIs that drive business results. My commitment is to deliver a project that is not only visually stunning but also technically robust and built for performance.
 
-Skills: HTML / CSS/ Tailwind / JavaScript / ES6 / React.Js / Node.Js / MongoDB / Express.Js / Firebase
+well known: HTML / CSS/ Tailwind / JavaScript / ES6 / React.Js / Node.Js / MongoDB / Express.Js / Firebase
 
 ## 🛠️ Skills
 ### 🌐 Frontend
@@ -13,9 +13,9 @@ Skills: HTML / CSS/ Tailwind / JavaScript / ES6 / React.Js / Node.Js / MongoDB /
 ### ⚙️ Backend & Tools
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-- 🔭 I’m currently working on Engineers-i IT & Consultant  
-- 🌱 I’m currently learning Still learning Next.Js 
-- 👯 I’m looking to collaborate on GitHub & LinkedIn 
+- 🔭 I’m currently working on a local Engineers-i IT & Consultant as a jr. Instractor.
+- 🌱 I’m currently learning Next.Js 
+- 👯 I’m looking to collaborate on GitHub, LinkedIn & Fiverr.
 - 💬 Ask me about Web Developer 
 - 📫 How to reach me: GitHub & LinkedIn 
 
@@ -27,5 +27,10 @@ Skills: HTML / CSS/ Tailwind / JavaScript / ES6 / React.Js / Node.Js / MongoDB /
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/shiful33)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/shiful33&show_icons=true)  
+
+## 📧 Connect with Me
+- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- **Email:** [yourname@email.com](mailto:yourname@email.com)
+- **Twitter:** [twitter.com/yourname](https://twitter.com/yourname)
 
 
