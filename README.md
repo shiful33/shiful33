@@ -17,7 +17,13 @@ well known: HTML / CSS/ Tailwind / JavaScript / ES6 / React.Js / Node.Js / Mongo
 - 🌱 I’m currently learning Next.Js 
 - 👯 I’m looking to collaborate on GitHub, LinkedIn & Fiverr.
 - 💬 Ask me about Web Developer 
-- 📫 How to reach me: GitHub & LinkedIn 
+- 📫 How to reach me: GitHub & LinkedIn
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shiful-islam-webdeveloper&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+![Welcome Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=50)
 
 
 
