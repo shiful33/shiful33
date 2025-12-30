@@ -23,22 +23,22 @@ well known: HTML / CSS/ Tailwind / JavaScript / ES6 / React.Js / Node.Js / Mongo
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-## 📧 Connect with Me
+## 📩 Connect with Me
 
 <p align="left">
-  <a href="https://www.facebook.com/shifulislamwebdeveloper" target="blank" style="margin-right: 15px;">
+  <a href="https://www.facebook.com/shifulislamwebdeveloper" target="blank" style="text-decoration: none; margin-right: 20px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/shiful-islam-webdeveloper" target="blank" style="margin-right: 15px;">
+  <a href="https://www.linkedin.com/in/shiful-islam-webdeveloper" target="blank" style="text-decoration: none; margin-right: 20px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.fiverr.com/ahmedtpro" target="blank" style="margin-right: 15px;">
+  <a href="https://www.fiverr.com/ahmedtpro" target="blank" style="text-decoration: none; margin-right: 20px;">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-2.svg" alt="Fiverr" height="30" width="40" />
   </a>
-  <a href="mailto:shwapon.joti@gmail.com" target="blank" style="margin-right: 15px;">
+  <a href="mailto:shwapon.joti@gmail.com" target="blank" style="text-decoration: none; margin-right: 20px;">
     <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
-  <a href="https://wa.me/8801711037548" target="blank">
+  <a href="https://wa.me/8801711037548" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
 </p>
