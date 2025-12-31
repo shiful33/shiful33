@@ -1,22 +1,15 @@
-# 👨‍💻 Hi, I'm Shiful Islam 👋
-### 🚀 Professional Frontend Web Developer
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shiful-islam-webdeveloper&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+# 👨‍💻 Hello! I’m **Shiful Islam**
 
 ![banner](https://media.licdn.com/dms/image/v2/D5616AQEQtb18ulj4ow/profile-displaybackgroundimage-shrink_350_1400/B56ZtzyXZJJIAY-/0/1767174144758?e=1769040000&v=beta&t=hlo62AfNHB1J8NOCl8kotgZHrD7q89RKu6FrNpoV3Uk)
 
 ## 📝 About Me
-Hello! I’m **Shiful Islam**, a professional Frontend Web Developer with **2+ years** of hands-on experience in building high-quality, modern, and scalable web applications. I don't just write code; I craft exceptional user experiences (UX) by meticulously implementing pixel-perfect UIs that drive business results.
+A professional Frontend Web Developer with **2+ years** of hands-on experience in building high-quality, modern, and scalable web applications. I don't just write code; I craft exceptional user experiences (UX) by meticulously implementing pixel-perfect UIs that drive business results.
 
 - 🔭 I’m currently working at **Engineers-i IT & Consultant** as a Jr. Instructor.
 - 🌱 I’m currently learning **Next.js**.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about **React, JavaScript, or Web Development**.
 - 📫 Reach me via **LinkedIn** or **WhatsApp**.
-
----
 
 ## 🛠️ Skills
 ### 🌐 Frontend & Backend
@@ -25,7 +18,9 @@ Hello! I’m **Shiful Islam**, a professional Frontend Web Developer with **2+ y
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)
 
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shiful-islam-webdeveloper&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
 ## 📊 GitHub Stats & Most Used Languages
 <p align="left">
