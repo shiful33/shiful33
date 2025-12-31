@@ -1,3 +1,10 @@
+# 👨‍💻 Hi, I'm Shiful Islam 👋
+### 🚀 Professional Frontend Web Developer
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shiful-islam-webdeveloper&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
 ![banner](https://media.licdn.com/dms/image/v2/D5616AQEQtb18ulj4ow/profile-displaybackgroundimage-shrink_350_1400/B56ZtzyXZJJIAY-/0/1767174144758?e=1769040000&v=beta&t=hlo62AfNHB1J8NOCl8kotgZHrD7q89RKu6FrNpoV3Uk)
 
 ## 📝 About Me
@@ -18,11 +25,13 @@ Hello! I’m **Shiful Islam**, a professional Frontend Web Developer with **2+ y
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)
 
-## 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[আপনার-ইউজারনেম]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[আপনার-ইউজারনেম]&layout=compact&theme=radical)
+---
 
 ## 📊 GitHub Stats & Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiful-islam-webdeveloper&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiful-islam-webdeveloper&layout=compact&theme=radical" height="150" />
+</p>
 
 <p align="left">
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
@@ -49,5 +58,3 @@ Hello! I’m **Shiful Islam**, a professional Frontend Web Developer with **2+ y
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
 </p>
-
-
