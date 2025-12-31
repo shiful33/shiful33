@@ -1,5 +1,5 @@
-![I am passionate Frontend Developer]
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Shiful%20Islam&fontSize=70&animation=fadeIn&fontAlignY=35)
+![I am passionate Frontend Developer](https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Shiful%20Islam&fontSize=70&animation=fadeIn&fontAlignY=35)
+
 
 Hello! I’m Shiful Islam, a professional Frontend Web Developer with 2+ years of hands-on experience in building high-quality, modern, and scalable web applications. If you are looking for a developer who can transform your vision into a fast, secure, and intuitive digital product, you are in the right place.
 
