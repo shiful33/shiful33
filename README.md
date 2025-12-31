@@ -23,10 +23,6 @@ A professional Frontend Web Developer with **2+ years** of hands-on experience i
 </p>
 
 ## 📊 GitHub Stats & Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiful-islam-webdeveloper&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiful-islam-webdeveloper&layout=compact&theme=radical" height="150" />
-</p>
 
 <p align="left">
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
