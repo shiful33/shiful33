@@ -18,6 +18,10 @@ Hello! I’m **Shiful Islam**, a professional Frontend Web Developer with **2+ y
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)
 
+## 📊 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[আপনার-ইউজারনেম]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[আপনার-ইউজারনেম]&layout=compact&theme=radical)
+
 ## 📊 GitHub Stats & Most Used Languages
 
 <p align="left">
