@@ -1,9 +1,7 @@
 # 👨‍💻 Hi, I'm Shiful Islam 👋
 ### 🚀 Professional Frontend Web Developer
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257068-12ce430a-133d-4115-85d5-1b0fa1308fd9.gif" width="100%" alt="Shiful Islam Banner" />
-</p>
+<div class="tenor-gif-embed" data-postid="10591680287322427082" data-share-method="host" data-aspect-ratio="2.82955" data-width="100%"><a href="https://tenor.com/view/1-gif-10591680287322427082">1 GIF</a>from <a href="https://tenor.com/search/1-gifs">1 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## 📝 About Me
 Hello! I’m **Shiful Islam**, a professional Frontend Web Developer with **2+ years** of hands-on experience in building high-quality, modern, and scalable web applications. I don't just write code; I craft exceptional user experiences (UX) by meticulously implementing pixel-perfect UIs that drive business results.
