@@ -1,4 +1,4 @@
-[!banner](https://media.licdn.com/dms/image/v2/D5616AQEQtb18ulj4ow/profile-displaybackgroundimage-shrink_350_1400/B56ZtzyXZJJIAY-/0/1767174144758?e=1769040000&v=beta&t=hlo62AfNHB1J8NOCl8kotgZHrD7q89RKu6FrNpoV3Uk)
+![banner](https://media.licdn.com/dms/image/v2/D5616AQEQtb18ulj4ow/profile-displaybackgroundimage-shrink_350_1400/B56ZtzyXZJJIAY-/0/1767174144758?e=1769040000&v=beta&t=hlo62AfNHB1J8NOCl8kotgZHrD7q89RKu6FrNpoV3Uk)
 
 ## 📝 About Me
 Hello! I’m **Shiful Islam**, a professional Frontend Web Developer with **2+ years** of hands-on experience in building high-quality, modern, and scalable web applications. I don't just write code; I craft exceptional user experiences (UX) by meticulously implementing pixel-perfect UIs that drive business results.
