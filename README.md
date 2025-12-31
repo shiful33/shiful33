@@ -1,12 +1,8 @@
 # 👨‍💻 Hi, I'm Shiful Islam 👋
 ### 🚀 Professional Frontend Web Developer
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shiful-islam-webdeveloper&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257068-12ce430a-133d-4115-85d5-1b0fa1308fd9.gif" width="100%" alt="Shiful Islam Banner" />
 </p>
 
 ## 📝 About Me
