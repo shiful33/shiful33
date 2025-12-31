@@ -2,8 +2,6 @@
 
 ![banner](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcxNzY1NzksIm5iZiI6MTc2NzE3NjI3OSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjMxVDEwMTc1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTliZTBiYzUzODFkMTBhY2MxOTM1MGFiNmJhODVkOWY2ODdlOWU0OWQ2NzdmYWMzMmVjMTFhYmQxM2VlODk4NjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oPfYDT4noiUG_M2KewZOaNA7XH9CeX5hDbXSxsxwPCc)
 
-![banner](https://media.licdn.com/dms/image/v2/D5616AQEQtb18ulj4ow/profile-displaybackgroundimage-shrink_350_1400/B56ZtzyXZJJIAY-/0/1767174144758?e=1769040000&v=beta&t=hlo62AfNHB1J8NOCl8kotgZHrD7q89RKu6FrNpoV3Uk)
-
 ## 📝 About Me
 A professional Frontend Web Developer with **2+ years** of hands-on experience in building high-quality, modern, and scalable web applications. I don't just write code; I craft exceptional user experiences (UX) by meticulously implementing pixel-perfect UIs that drive business results.
 
