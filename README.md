@@ -41,19 +41,19 @@ A professional Frontend Web Developer with **2+ years** of hands-on experience i
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shiful-islam-webdeveloper" target="_blank">
-    <img src="https://raw.githubusercontent.com/Shahriar-Rafi/Animated-Icons/main/linkedin.gif" width="50" height="50" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/8801711037548" target="_blank">
-    <img src="https://raw.githubusercontent.com/Shahriar-Rafi/Animated-Icons/main/whatsapp.gif" width="50" height="50" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:shwapon.joti@gmail.com">
-    <img src="https://raw.githubusercontent.com/Shahriar-Rafi/Animated-Icons/main/gmail.gif" width="50" height="50" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/shifulislamwebdeveloper" target="_blank">
-    <img src="https://raw.githubusercontent.com/Shahriar-Rafi/Animated-Icons/main/facebook.gif" width="50" height="50" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.fiverr.com/ahmedtpro" target="_blank">
-    <img src="https://raw.githubusercontent.com/Shahriar-Rafi/Animated-Icons/main/fiverr.gif" width="50" height="50" alt="Fiverr" />
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
 </p>
 
