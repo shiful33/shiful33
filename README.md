@@ -25,16 +25,15 @@ A professional Frontend Web Developer with **2+ years** of hands-on experience i
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shiful33&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiful33&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shiful33&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shiful33&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiful33&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-cards.vercel.app/api/stats?username=shiful33&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiful33&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
