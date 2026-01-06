@@ -33,6 +33,10 @@ A professional Frontend Web Developer with **2+ years** of hands-on experience i
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shiful33&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-cards.vercel.app/api/stats?username=shiful33&theme=radical" />
+</p>
+
 ---
 
 ## 📩 Connect with Me
