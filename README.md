@@ -40,21 +40,9 @@ A professional Frontend Web Developer with **2+ years** of hands-on experience i
 ## 📩 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shiful-islam-webdeveloper" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/8801711037548" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="45" alt="WhatsApp" />
-  </a>
-  <a href="mailto:shwapon.joti@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/shifulislamwebdeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook" />
-  </a>
-  <a href="https://www.fiverr.com/ahmedtpro" target="_blank">
-    <img src="https://img.shields.io/badge/-Fiverr-%231DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="35" alt="Fiverr" />
-  </a>
+<a href="https://www.linkedin.com/in/shiful-islam-webdeveloper"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" /></a>
+<a href="https://wa.me/8801711037548"><img src="https://skillicons.dev/icons?i=whatsapp" height="40" width="40" /></a>
+<a href="mailto:shwapon.joti@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" /></a>
 </p>
 
 <p align="left">
