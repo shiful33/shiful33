@@ -24,11 +24,18 @@ A professional Frontend Web Developer with **2+ years** of hands-on experience i
 
 ## 📊 GitHub Analytics
 
-![Stars](https://img.shields.io/github/stars/shiful33?style=flat-square)
-![Repos](https://img.shields.io/github/directory-structure/shiful33?style=flat-square)
-![Followers](https://img.shields.io/github/followers/shiful33?style=flat-square&logo=github)
+<p align="left">
+  <img src="https://img.shields.io/github/stars/shiful33?style=for-the-badge&color=orange" alt="Stars" />
+  <img src="https://img.shields.io/github/directory-structure/shiful33?style=for-the-badge&color=blue" alt="Repos" />
+  <img src="https://img.shields.io/github/followers/shiful33?style=for-the-badge&color=green&logo=github" alt="Followers" />
+</p>
 
----
+### 💻 Coding Activity
+<p align="left">
+  <img src="https://img.shields.io/badge/Main_Language-JavaScript-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=flat-square" />
+</p>
 
 ## 📩 Connect with Me
 
