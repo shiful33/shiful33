@@ -24,13 +24,9 @@ A professional Frontend Web Developer with **2+ years** of hands-on experience i
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-shiful33.vercel.app/api?username=shiful33&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-shiful33.vercel.app/api/top-langs/?username=shiful33&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Stars](https://img.shields.io/github/stars/shiful33?style=flat-square)
+![Repos](https://img.shields.io/github/directory-structure/shiful33?style=flat-square)
+![Followers](https://img.shields.io/github/followers/shiful33?style=flat-square&logo=github)
 
 ---
 
