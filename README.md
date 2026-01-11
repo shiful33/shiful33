@@ -5,7 +5,7 @@
 ## 📝 About Me
 A professional Frontend Web Developer with **2+ years** of hands-on experience in building high-quality, modern, and scalable web applications. I don't just write code; I craft exceptional user experiences (UX) by meticulously implementing pixel-perfect UIs that drive business results.
 
-- 🔭 I’m currently working at **Engineers-i IT & Consultant** as a Jr. Instructor.
+- 🔭 I'm currently seeking new opportunities as a Frontend Developer
 - 🌱 I’m currently learning **Next.js**.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about **React, JavaScript, or Web Development**.
